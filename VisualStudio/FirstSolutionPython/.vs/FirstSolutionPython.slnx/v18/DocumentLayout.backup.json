@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\FirstSolutionPython\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC5023E-7B43-4E1E-9BAF-02ABADDA7436}|Python_1\\Python_1.pyproj|C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\FirstSolutionPython\\Python_1\\Python_1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EC5023E-7B43-4E1E-9BAF-02ABADDA7436}|Python_1\\Python_1.pyproj|solutionrelative:Python_1\\Python_1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python_1.py",
+              "DocumentMoniker": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\FirstSolutionPython\\Python_1\\Python_1.py",
+              "RelativeDocumentMoniker": "Python_1\\Python_1.py",
+              "ToolTip": "C:\\Users\\enes7\\OneDrive\\Masa\u00FCst\u00FC\\C# New Project\\FirstSolutionPython\\Python_1\\Python_1.py",
+              "RelativeToolTip": "Python_1\\Python_1.py",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAG4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-07T14:47:51.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
