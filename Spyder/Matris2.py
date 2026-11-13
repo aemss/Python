@@ -40,6 +40,7 @@ for i in range(len(transpoze)):
     print("")
     
     
+
     
 
         
